@@ -1,0 +1,17 @@
+{
+  "name": "task139",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vegan",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "formidable": "^1.2.1",
+    "http": "0.0.0"
+  }
+}
